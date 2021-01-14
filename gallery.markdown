@@ -2,7 +2,10 @@
 layout: page
 title: Gallery
 permalink: "/about/"
-published: false
+gallery:
+- "/uploads/1.jpg"
+- "/uploads/2.jpg"
+- "/uploads/3.jpg"
 
 ---
 **This** is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
