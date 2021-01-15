@@ -2,7 +2,6 @@
 layout: ''
 title: gallery
 permalink: gallery
-published: false
 
 ---
 Gallery again?
